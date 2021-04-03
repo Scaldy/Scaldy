@@ -23,7 +23,7 @@ Soy Licenciado en Sistemas de Información, egresado de Universidad ORT, vivo co
 
 Me siento un profesional en constante formación, un fiel estudiante y aprendiz de Tecnología. Soy experto en algunas áreas técnicas, y un apasionado aprendiz en otras. Alguien en constante evolución, que aprende día a día como pasar de ser experto a ejecutivo.
 
-Soy Licenciado en Sistemas de Información, me desempeño como Analista Senior GeneXus desde hace más de 20 años. Experiencia en todos los generadores, bases de datos y versiones, principal experiencia en generador Web Java – GX 17 en el desarrollo de APIs de microservicios web y procesos BATCH (automatización de procesos).
+Soy Licenciado en Sistemas de Información, me desempeño como Analista Senior GeneXus desde hace más de 20 años. Experiencia en la mayoría de los generadores, bases de datos y versiones, principal experiencia en generador Web Java – GX 17 en el desarrollo de APIs de microservicios web y procesos BATCH (automatización de procesos).
 
 En los últimos 10 años me he vinculado mayormente a empresas cuyo giro es el sector financiero, dando apoyo desde el área de Desarrollo y Proyectos.
 
