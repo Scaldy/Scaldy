@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Soy Licenciado en Sistemas de Información, egresado de Universidad ORT, vivo con mi familia en Montevideo, soy Analista Senior GeneXus con muchos años de experiencia, y me apasiona el mundo de las herramientas ágiles y cultura DevOps.
+Soy un profesional en constante formación, que adopta tempranamente las nuevas tecnologías web, arquitecturas de backend, automatización de procesos y metodologías ágiles, procurando así conseguir software de calidad, equipos de alto rendimiento y motivación constante.
+
+Licenciado en Sistemas de Información, egresado de Universidad ORT, vivo con mi familia en Montevideo, soy Analista Senior GeneXus con muchos años de experiencia, y me apasiona el mundo de las herramientas ágiles y cultura DevOps.
 
 ---
 
