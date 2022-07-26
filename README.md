@@ -21,16 +21,16 @@ I'm a professional in constant training, who early adopts new web technologies, 
 
 ## 💬 About me
 
-Me siento un profesional en constante formación, un fiel estudiante y aprendiz de Tecnología. Soy experto en algunas áreas técnicas, y un apasionado aprendiz en otras. Alguien en constante evolución, que aprende día a día como pasar de ser experto a ejecutivo.
+I'm a professional in constant training, a faithful student and apprentice of Technology. I am an expert in some technical areas, and a passionate learner in others. Someone in constant evolution, who learns day by day how to go from being an expert to an executive.
 
-Soy Licenciado en Sistemas de Información, me desempeño como Analista Senior GeneXus desde hace más de 20 años. Experiencia en la mayoría de los generadores, bases de datos y versiones, principal experiencia en generador Web Java – GX 17 en el desarrollo de APIs de microservicios web y procesos BATCH (automatización de procesos).
+I have a degree on Information Systems, I have been working as a GeneXus Senior Analyst for more than 20 years. Experience in most generators, databases and versions, main experience in Java Web generator – GX 17 in the development of APIs for web microservices and BATCH processes (process automation).
 
-En los últimos 10 años me he vinculado mayormente a empresas cuyo giro es el sector financiero, dando apoyo desde el área de Desarrollo y Proyectos.
+In the last 10 years, I was mostly linked to fintech companies, giving support from the Development and Projects area.
 
-Tengo excelente desempeño en análisis y diseño, metódico en todo el proceso de ingeniería del software, sobre todo en metodologías ágiles (SCRUM, XP y KANBAN) y en los últimos tiempos incorporando prácticas de DEVOPS, particularmente me interesa el uso de herramientas ágiles que ayudan a mejorar la productividad y mejoran la calidad del software.
+I've an excellent performance in analysis and design, methodical in the entire software engineering process, especially in agile methodologies (SCRUM and KANBAN) and in recent times incorporating DEVOPS practices, I am particularly interested in the use of agile tools that help improve productivity and improve software quality.
 
 ## My Values
-Trabajo en Equipo. Colaboración. Transparencia. Orden. Organización. Compromiso. Responsabilidad.
+Team working. Collaboration. Transparency. Order. Compromising. Responsability.
 
 **Skills:**
 Autodidacta. Investigación. Al día con la Tecnología. Colaborativo. Rápido Aprendizaje. Empático.
