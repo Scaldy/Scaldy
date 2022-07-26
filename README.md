@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Soy un profesional en constante formación, que adopta tempranamente las nuevas tecnologías web, arquitecturas de backend, automatización de procesos y metodologías ágiles, procurando así conseguir software de calidad, equipos de alto rendimiento y motivación constante.
-
-Licenciado en Sistemas de Información, egresado de Universidad ORT, vivo con mi familia en Montevideo, soy Analista Senior GeneXus con muchos años de experiencia, y me apasiona el mundo de las herramientas ágiles y cultura DevOps.
+I'm a professional in constant training, who early adopts new web technologies, backend architectures, process automation and agile methodologies, thus seeking to achieve quality software, high-performance teams and constant motivation.
 
 ---
 
-## 💬 Acerca de mí
+## 💬 About me
 
 Me siento un profesional en constante formación, un fiel estudiante y aprendiz de Tecnología. Soy experto en algunas áreas técnicas, y un apasionado aprendiz en otras. Alguien en constante evolución, que aprende día a día como pasar de ser experto a ejecutivo.
 
@@ -31,17 +29,17 @@ En los últimos 10 años me he vinculado mayormente a empresas cuyo giro es el s
 
 Tengo excelente desempeño en análisis y diseño, metódico en todo el proceso de ingeniería del software, sobre todo en metodologías ágiles (SCRUM, XP y KANBAN) y en los últimos tiempos incorporando prácticas de DEVOPS, particularmente me interesa el uso de herramientas ágiles que ayudan a mejorar la productividad y mejoran la calidad del software.
 
-**Mis Valores:**
+**My Values:**
 Trabajo en Equipo. Colaboración. Transparencia. Orden. Organización. Compromiso. Responsabilidad.
 
-**Habilidades principales:**
+**Skills:**
 Autodidacta. Investigación. Al día con la Tecnología. Colaborativo. Rápido Aprendizaje. Empático.
 
 
-**Intereses Principales:**
+** 🌱 Main interests:**
 
-- Arquitectura de Sistemas
-- Ingeniería de Software
-- Metodologías Ágiles.
-- DevOps
-- Hacking Ético
+- System Archicture
+- Web Development
+- Agile Methodologies
+- DevOps Culture
+- Cibersecurity
