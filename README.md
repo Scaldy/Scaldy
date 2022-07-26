@@ -1,4 +1,4 @@
-### Hola, mi nombre es Marcelo Scaldaferro 👋
+### Hi, my name is Marcelo Scaldaferro 👋
 
 <!--
 **Scaldy/Scaldy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,14 +29,14 @@ En los últimos 10 años me he vinculado mayormente a empresas cuyo giro es el s
 
 Tengo excelente desempeño en análisis y diseño, metódico en todo el proceso de ingeniería del software, sobre todo en metodologías ágiles (SCRUM, XP y KANBAN) y en los últimos tiempos incorporando prácticas de DEVOPS, particularmente me interesa el uso de herramientas ágiles que ayudan a mejorar la productividad y mejoran la calidad del software.
 
-**My Values:**
+## My Values
 Trabajo en Equipo. Colaboración. Transparencia. Orden. Organización. Compromiso. Responsabilidad.
 
 **Skills:**
 Autodidacta. Investigación. Al día con la Tecnología. Colaborativo. Rápido Aprendizaje. Empático.
 
 
-** 🌱 Main interests:**
+## 🌱 Main interests
 
 - System Archicture
 - Web Development
