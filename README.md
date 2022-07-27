@@ -21,8 +21,6 @@ I'm a professional in constant training, who early adopts new web technologies, 
 
 ## 💬 About me
 
-I'm a professional in constant training, a faithful student and apprentice of Technology. I am an expert in some technical areas, and a passionate learner in others. Someone in constant evolution, who learns day by day how to go from being an expert to an executive.
-
 I have a degree on Information Systems, I have been working as a GeneXus Senior Analyst for more than 20 years. Experience in most generators, databases and versions, main experience in Java Web generator – GX 17 in the development of APIs for web microservices and BATCH processes (process automation).
 
 In the last 10 years, I was mostly linked to fintech companies, giving support from the Development and Projects area.
@@ -31,9 +29,6 @@ I've an excellent performance in analysis and design, methodical in the entire s
 
 ## ✨ My Values
 Team working. Collaboration. Transparency. Order. Compromising. Responsability.
-
-**Skills:**
-Autodidacta. Investigación. Al día con la Tecnología. Colaborativo. Rápido Aprendizaje. Empático.
 
 
 ## 🌱 Main interests
