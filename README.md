@@ -28,7 +28,7 @@ In the last 10 years, I was mostly linked to fintech companies, giving support f
 I've an excellent performance in analysis and design, methodical in the entire software engineering process, especially in agile methodologies (SCRUM and KANBAN) and in recent times incorporating DEVOPS practices, I am particularly interested in the use of agile tools that help improve productivity and improve software quality.
 
 ## ✨ Skills
-Team working. Collaboration. Transparency. Order. Compromising. Responsability.
+Team working. Collaborative. Transparent. Methodic. Engaged. Responsible.
 
 
 ## 🌱 Main interests
