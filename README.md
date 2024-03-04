@@ -27,6 +27,32 @@ In the last 10 years, I was mostly linked to fintech companies, giving support f
 
 I've an excellent performance in analysis and design, methodical in the entire software engineering process, especially in agile methodologies (SCRUM and KANBAN) and in recent times incorporating DEVOPS practices, I am particularly interested in the use of agile tools that help improve productivity and improve software quality.
 
+The last years I been working on Java Spring Boot, on complex microservices architecture, with SQL and noSQL storages on AWS and Google Cloud, with Google PubSub queues for asynchronious messages between APIs. I was working with the best practices for RESTfull services: resillience, asynchronicity, idempotence, eventually consistency, caching, circuit breakers, DLQs, etc.
+
+## 🌱 My current stack
+- Java 17
+- Sprint Boot
+- Python 3.7
+- IntelliJ
+- Visual Studio Code
+- mySQL
+- BigQuery
+- dynamoDB
+- Google PubSub
+- JUnit/Mockito
+- Github
+- Jenkins
+- Jira
+- Slack
+- Confluence
+- Postman
+- Kibana
+- NewRelic
+- Datadog
+- Kubernetes
+
+
+
 ## ✨ Skills
 
 - Team working
